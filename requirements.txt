@@ -1,0 +1,15 @@
+
+requests
+pandas
+numpy
+SQLAlchemy
+pyodbc
+Faker
+
+
+#requests	DummyJSON API se data fetch
+#pandas	Data cleaning and transformation
+#numpy	Numerical calculations
+#SQLAlchemy	Python aur SQL Server connection
+#pyodbc	SQL Server database connectivity
+#Faker	Simulated customers aur sales generate
